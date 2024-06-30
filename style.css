@@ -1,0 +1,52 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e1cccc;
+    color: #3c3b3b;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9b8f8f;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.review {
+    margin-top: 20px;
+}
+
+.place {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #666060;
+    color: white;
+}
+.review img {
+    width: 300px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
